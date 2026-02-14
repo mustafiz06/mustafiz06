@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mustafizur Rahman</h1>
 <h3 align="center">Full Stack Developer | Laravel | MERN | AI Enthusiast</h3>
 
