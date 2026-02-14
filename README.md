@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mustafizur Rahman
+# Hi, I'm Mustafizur Rahman
 
-### 🚀 Junior Full-Stack Web Developer (Laravel & MERN)
+###  Full-Stack Web Developer (Laravel & MERN)
 
 I am a passionate **Full-Stack Web Developer** with real experience in building complete web applications using:
 
@@ -11,25 +11,25 @@ I enjoy solving real-world problems, writing clean & maintainable code, and cont
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
 
-### ⚙️ Backend
+### Backend
 - PHP  
 - Laravel  
 - Node.js  
 - Express.js  
 
-### 🗄 Database
+### Database
 - MySQL  
 - MongoDB  
 
-### 🛠 Tools & Workflow
+### Tools & Workflow
 - Git & GitHub  
 - VS Code  
 - REST API Development  
@@ -37,21 +37,21 @@ I enjoy solving real-world problems, writing clean & maintainable code, and cont
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📝 Full Laravel Blog System
+### Full Laravel Blog System
 - User authentication (login/register)  
 - Admin dashboard & role management  
 - Create, edit, delete blog posts  
 - Category & user management  
 - Secure Laravel backend with MySQL database  
 
-### 🌐 MERN Stack Applications
+### MERN Stack Applications
 - RESTful API using Express & MongoDB  
 - Dynamic React frontend  
 - Full CRUD functionality & API integration  
 
-### 📋 Practice Projects
+### Practice Projects
 - CRUD Application  
 - Todo App  
 - Alarm Clock  
@@ -62,7 +62,7 @@ These projects strengthened my **problem-solving**, **logic building**, and **fu
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 - Become a **professional Full-Stack Software Developer**  
 - Specialize in **Laravel & MERN production-level applications**  
@@ -71,7 +71,7 @@ These projects strengthened my **problem-solving**, **logic building**, and **fu
 
 ---
 
-## 📈 Developer Mindset
+## Developer Mindset
 
 - Write **clean & readable code**  
 - Learn **every day**  
@@ -80,12 +80,12 @@ These projects strengthened my **problem-solving**, **logic building**, and **fu
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- LinkedIn: *(add your link)*  
+- LinkedIn: *https://www.linkedin.com/in/themustafiz06/*
 - Portfolio: *(coming soon)*  
-- Email: *(add your email)*  
+- Email: *themustafiz06@gmail.com*  
 
 ---
 
-⭐ **“Discipline, consistency, and code — that’s my path to success.”**
+**“Discipline, consistency, and code — that’s my path to success.”**
