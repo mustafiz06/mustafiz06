@@ -3,6 +3,70 @@
   <img src="https://i.ibb.co/2h1X3tC/fullstack-banner.png" alt="Mustafizur Rahman Banner" width="100%">
 </p>
 
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mustafizur Rahman</h1>
+<h3 align="center">Full Stack Developer | Laravel | MERN | AI Enthusiast</h3>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Web Applications & ERP Systems**
+- 🌱 Learning **Machine Learning & AI**
+- 💬 Ask me about **Laravel, PHP, JavaScript, MERN Stack**
+- 📍 Location: Bangladesh
+- ⚡ Fun fact: I love building clean & efficient UI
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</p>
+
+---
+
+⭐️ From [Mustafizur Rahman](https://github.com/YOUR_USERNAME)
+
+
+
 # Hi there, I'm Mustafizur Rahman 👋
 ## Full-Stack Developer | Laravel & MERN
 
@@ -25,11 +89,6 @@ I enjoy solving **real-world problems**, writing **clean & maintainable code**, 
 ---
 
 ## 📊 GitHub Stats
-![Mustafiz06's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafiz06&show_icons=true&count_private=true&theme=radical)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafiz06&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz06&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafiz06&theme=radical" alt="GitHub Streak" />
 </p>
@@ -97,11 +156,6 @@ I enjoy solving **real-world problems**, writing **clean & maintainable code**, 
 - Learn **every day**  
 - Build **real-world useful projects**  
 - Grow through **consistency & discipline**
-
----
-
-## 👀 Visitors
-![Profile Views](https://hits.sh/github/mustafiz06)
 
 ---
 
