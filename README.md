@@ -100,7 +100,7 @@ I enjoy solving **real-world problems**, writing **clean & maintainable code**, 
 ---
 
 ## 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/mustafiz06/count.svg)
+![Profile Views](https://hits.sh/github/mustafiz06)
 
 ---
 
