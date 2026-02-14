@@ -31,13 +31,24 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafiz06&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafiz06&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=mustafiz06&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafiz06&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+<p align="center">
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=mustafiz06&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</p>
+
 
 > 🔥 Consistently improving through hands-on development and experimentation.
 
