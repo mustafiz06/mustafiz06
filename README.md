@@ -25,6 +25,7 @@ I enjoy solving **real-world problems**, writing **clean & maintainable code**, 
 ---
 
 ## 📊 GitHub Stats
+![Mustafiz06's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafiz06&show_icons=true&count_private=true&theme=radical)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafiz06&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz06&layout=compact&theme=radical" alt="Top Languages" />
