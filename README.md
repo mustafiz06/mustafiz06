@@ -72,11 +72,17 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 ![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST-API-0052CC?style=for-the-badge) 
+### 🛠 Development Environment & Tools
+
+![Laragon](https://img.shields.io/badge/Laragon-Local%20Server-0E83CD?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/XAMPP-Local%20Server-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-0052CC?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-008080?style=for-the-badge)
+> 💡 I develop and test RESTful APIs using Postman, manage local server environments with Laragon/XAMPP, and follow MVC architecture for clean and scalable backend development.
+
 
 ---
 
