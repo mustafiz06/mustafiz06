@@ -16,7 +16,7 @@
   </a>
 </p>
 
----
+
 
 ## About Me
 
@@ -30,9 +30,7 @@ MongoDB • Express.js • React.js • Node.js
 
 I enjoy solving **real-world problems**, designing **clean backend architectures**, and writing **maintainable, production-ready code**.
 
-> _“Discipline, consistency, and code — that’s my path to success.”_
 
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -50,13 +48,6 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafiz06&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
-
-
-
-> Consistently improving through hands-on development and experimentation.
-
----
 
 ## Tech Stack
 
@@ -93,7 +84,7 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 > I develop and test RESTful APIs using Postman, manage local server environments with Laragon/XAMPP, and follow MVC architecture for clean and scalable backend development.
 
 
----
+
 
 ## Featured Projects
 
@@ -104,7 +95,7 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 ✔ Category & user management  
 ✔ Secure Laravel backend with MySQL  
 
----
+
 
 ### MERN Stack Applications
 ✔ RESTful API with Express & MongoDB  
@@ -112,7 +103,7 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 ✔ Full CRUD functionality  
 ✔ API integration & state management  
 
----
+
 
 ### Practice Projects
 - Todo App  
@@ -120,9 +111,7 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 - Weather App  
 - Calculator  
 
-> These projects strengthened my **problem-solving ability, backend logic, and full-stack architecture skills**.
 
----
 
 ## Career Vision
 
