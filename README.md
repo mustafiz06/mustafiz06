@@ -36,6 +36,9 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 
 ## 📊 GitHub Stats & Activity
 
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=mustafiz06&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mustafiz06&theme=tokyonight&hide_border=true" height="170"/>
 </p>
