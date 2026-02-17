@@ -105,14 +105,6 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 
 
 
-### Practice Projects
-- Todo App  
-- Alarm Clock  
-- Weather App  
-- Calculator  
-
-
-
 ## Career Vision
 
 - Grow as a professional **Full-Stack Engineer**
