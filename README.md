@@ -85,33 +85,6 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 
 
 
-
-## Featured Projects
-
-### Full Laravel Blog System
-✔ Secure authentication (Login/Register)  
-✔ Admin dashboard with role management  
-✔ CRUD operations for blog posts  
-✔ Category & user management  
-✔ Secure Laravel backend with MySQL  
-
-
-
-### MERN Stack Applications
-✔ RESTful API with Express & MongoDB  
-✔ Dynamic React frontend  
-✔ Full CRUD functionality  
-✔ API integration & state management  
-
-
-
-## Career Vision
-
-- Grow as a professional **Full-Stack Engineer**
-- Build **scalable & high-performance backend systems**
-- Specialize in **production-ready Laravel & MERN applications**
-- Contribute to meaningful **open-source projects**
-
 ### Developer Mindset
 ✔ Write clean & readable code  
 ✔ Learn continuously  
