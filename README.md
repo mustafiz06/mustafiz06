@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mustafizur Rahman
+# Hi, I'm Mustafizur Rahman
 
 <p align="center">
 
@@ -26,13 +26,7 @@
 </p>
 
 
-# Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express,mysql,mongodb,git,vscode,postman" />
-</p>
-
----
 
 #  GitHub Stats & Activity
 
