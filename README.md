@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Mustafizur Rahman</h1>
-<h3 align="center">Full-Stack Developer (MERN & Laravel) | Building Scalable & Secure Web Applications</h3>
+# Hi 👋, I'm Mustafizur Rahman
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mustafizur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20(MERN%20%7C%20Laravel)&descAlignY=55&descAlign=50" />
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+MERN+Stack+Specialist;Building+Scalable+Web+Applications;Clean+Code+Advocate" />
+
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/themustafiz06/">
@@ -17,35 +26,47 @@
 </p>
 
 
+# Tech Stack
 
-## About Me
-
-I am a passionate **Full-Stack Web Developer** specializing in building modern, scalable, and maintainable web applications.
-
-### Laravel Stack
-PHP • Laravel • MySQL  
-
-### MERN Stack
-MongoDB • Express.js • React.js • Node.js  
-
-I enjoy solving **real-world problems**, designing **clean backend architectures**, and writing **maintainable, production-ready code**.
-
-
-
-## 📊 GitHub Stats & Activity
-
- <p align="center">
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=mustafiz06&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,php,laravel,nodejs,express,mysql,mongodb,git,vscode,postman" />
 </p>
+
+---
+
+#  GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafiz06&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mustafiz06&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafiz06&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+
+
+<h1 align="center">Hi, I'm Mustafizur Rahman</h1>
+<h3 align="center">Full-Stack Developer (MERN & Laravel) | Building Scalable & Secure Web Applications</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/themustafiz06/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/themustafiz06">
+    <img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:themustafiz06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mustafiz.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 
@@ -81,8 +102,6 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-0052CC?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-Architecture-008080?style=for-the-badge)
-> I develop and test RESTful APIs using Postman, manage local server environments with Laragon/XAMPP, and follow MVC architecture for clean and scalable backend development.
-
 
 
 ### Developer Mindset
