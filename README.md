@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+MERN+Stack+Specialist;Building+Scalable+Web+Applications;Clean+Code+Advocate" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+MERN+Stack+Specialist;Building+Scalable+Web+Applications;Clean+Code" />
 
 </p>
 
