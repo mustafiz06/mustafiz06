@@ -3,11 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Mustafizur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20(MERN%20%7C%20Laravel)&descAlignY=55&descAlign=50" />
 </p>
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+MERN+Stack+Specialist;Building+Scalable+Web+Applications;Clean+Code" />
-
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/themustafiz06/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
