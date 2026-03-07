@@ -96,6 +96,4 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 ✔ Build real-world solutions  
 ✔ Stay disciplined & consistent  
 
----
-
 <h3 align="center"> If you like my work, consider giving a star to my repositories!</h3>
