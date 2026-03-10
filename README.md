@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Mustafizur Rahman</h1>
-<h3 align="center">Full-Stack Developer (MERN & Laravel) | Building Scalable & Secure Web Applications</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mustafizur+Rahman;Full+Stack+Developer;Building+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/themustafiz06/">
