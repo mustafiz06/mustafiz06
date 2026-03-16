@@ -91,10 +91,4 @@ I enjoy solving **real-world problems**, designing **clean backend architectures
 - Specialize in **production-ready Laravel & MERN applications**
 - Contribute to meaningful **open-source projects**
 
-### Developer Mindset
-✔ Write clean & readable code  
-✔ Learn continuously  
-✔ Build real-world solutions  
-✔ Stay disciplined & consistent  
-
 <h2 align="center"> If you like my work, consider giving a star to my repositories!</h2>
